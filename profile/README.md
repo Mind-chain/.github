@@ -1,16 +1,16 @@
-# Mind Smart Chain
+# Mind Smart Chain - EVM Blockchain
 
-Welcome to the Mind Smart Chain! Here, we strive to create a smart and secure blockchain ecosystem. 
+Welcome to the Mind Smart Chain organization's EVM Blockchain project! Here, we strive to create a smart and secure blockchain ecosystem. 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Website](https://img.shields.io/website-up-down-green-red/https/mindchain.info.svg)](https://mindchain.info)
-[![GitHub stars](https://img.shields.io/github/stars/Mind-chain/Mind-Smart-Chain.svg?style=social)]([https://github.com/Mind-chain/Mind-Smart-Chain](https://github.com/Mind-chain/Msc-node)/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Mind-chain/Msc-node?style=social)](https://github.com/Mind-chain/Msc-node/stargazers)
 
 ## Real-Time Stats
 
-- **Total Commits:** ![GitHub last commit](https://img.shields.io/github/last-commit/Mind-chain/Mind-Smart-Chain)
-- **GitHub Actions:** ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Mind-chain/Mind-Smart-Chain/CI/main?label=CI)
-- **GitHub Releases:** ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Mind-chain/Mind-Smart-Chain)
+- **Total Commits:** ![GitHub last commit](https://img.shields.io/github/last-commit/Mind-chain/Msc-node)
+- **GitHub Actions:** ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Mind-chain/Msc-node/CI/main?label=CI)
+- **GitHub Releases:** ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Mind-chain/Msc-node)
 
 ## Blockchain Information
 
@@ -40,7 +40,7 @@ If you want to learn more about Mind Smart Chain, please visit our [official doc
 
 ## Getting Started
 
-To get started with Mind Smart Chain, you can visit our [website](https://mindchain.info) and explore our [GitHub repository](https://github.com/Mind-chain/Mind-Smart-Chain).
+To get started with Mind Smart Chain, you can visit our [website](https://mindchain.info) and explore our [GitHub repository](https://github.com/Mind-chain/Msc-node).
 
 ## Contributing
 
@@ -51,4 +51,5 @@ We welcome contributions from the community. Please check our [Contribution Guid
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
 
