@@ -1,4 +1,4 @@
-# Mind Smart Chain - EVM Blockchain
+# Mind Smart Chain
 
 Welcome to the Mind Smart Chain organization's EVM Blockchain project! Here, we strive to create a smart and secure blockchain ecosystem. 
 
