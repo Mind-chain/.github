@@ -9,8 +9,6 @@
   
 <br />
 
-![Metrics](/profile/metrics.svg)
-
 </span>
 ## Blockchain Information
 
