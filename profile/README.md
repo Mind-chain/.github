@@ -1,17 +1,17 @@
 # Mind Smart Chain 
+<span align="center">
 
-Welcome to the Mind Smart Chain! Here, we strive to create a smart and secure blockchain ecosystem. 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Website](https://img.shields.io/website-up-down-green-red/https/mindchain.info.svg)](https://mindchain.info)
-[![GitHub stars](https://img.shields.io/github/stars/Mind-chain/Msc-node?style=social)](https://github.com/Mind-chain/Msc-node/stargazers)
 
-## Real-Time Stats
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)]([[https://twitter.com/MindChain1])
 
-- **Total Commits:** ![GitHub last commit](https://img.shields.io/github/last-commit/Mind-chain/Msc-node)
-- **GitHub Actions:** ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Mind-chain/Msc-node/CI/main?label=CI)
-- **GitHub Releases:** ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Mind-chain/Msc-node)
+---
+  
+<br />
 
+![Metrics](/profile/metrics.svg)
+
+</span>
 ## Blockchain Information
 
 - **Mainnet Blockchain Explorer:** [Mainnet Explorer](https://mainnet.mindscan.info)
